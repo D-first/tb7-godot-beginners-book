@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://src/views/Title/Title.gd" type="Script" id=1]
+[ext_resource path="res://assets/sprites/button/button_03.png" type="Texture" id=2]
+
+[node name="Title" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="PlayButton" type="TextureButton" parent="."]
+margin_left = 835.0
+margin_top = 415.0
+margin_right = 1085.0
+margin_bottom = 665.0
+texture_normal = ExtResource( 2 )
+[connection signal="pressed" from="PlayButton" to="." method="_on_PlayButton_pressed"]
