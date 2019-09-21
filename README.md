@@ -1,5 +1,7 @@
 # Godot Engine超入門　～ノンプログラマーのゲーム制作初挑戦～　サポートページへようこそ
 
+<img src="https://user-images.githubusercontent.com/1947605/65373050-f38e7600-dcb2-11e9-8399-ea47fa96c089.png" alt="表紙" width="300" height="426">
+
 本リポジトリは、2019年9月22日の[技術書典7](https://techbookfest.org/event/tbf07)にて頒布いたしました「Godot Engine超入門　～ノンプログラマーのゲーム制作初挑戦～」のサポートページです。書籍内で使われたGodotのプロジェクトファイルや、画像・音楽などのリソース、正誤表などを載せています。書籍は[BOOTH](https://labyrinth-egg.booth.pm/)にて取り扱いも行っています。
 
 ## ノンプログラマーの方へ
