@@ -38,4 +38,5 @@ Godot独自の言語であるため、一般的なプログラミング言語の
 ### Q: 日本人の集まるコミュニティは無いの？
 
 Discordの日本語向けサーバーがあります！
-discordapp.com/invite/DyFvSJZ
+
+[Godot Engine Japan Community](https://discordapp.com/invite/DyFvSJZ)
