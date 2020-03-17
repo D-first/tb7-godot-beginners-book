@@ -37,5 +37,5 @@ Godot独自の言語であるため、一般的なプログラミング言語の
 
 ### Q: 日本人の集まるコミュニティは無いの？
 
-残念ながら、日本のはっきりとしたコミュニティを筆者も知りません。
-Godotチュートリアルを多数公開しているGDQuestの[Discord](https://discord.gg/KVaCsSP)サーバーに「japanese」チャンネルがあるので、そこに人が増えたらいいなとひそかに思っています。
+Discordの日本語向けサーバーがあります！
+discordapp.com/invite/DyFvSJZ
